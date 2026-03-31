@@ -125,3 +125,5 @@ Found an inaccuracy or have updated data? Feel free to open an issue or submit a
 ---
 
 *Last updated: 2024 | Fact-checked against IMF, OECD, and Yale CELI data*
+
+📊 [View Presentation](./RUSSIA_UKRAINE_WAR_PPT_1.pdf)
